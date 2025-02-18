@@ -42,22 +42,22 @@ Mis soluciones a los retos navideños de [mars.codes](https://mars.codes) hechos
 		<tr>
 			<th>
 				<a href="https://github.com/cosmoart/adventJS" target="_blank" rel="noopener noreferrer">
-					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739380655/github/plt00ds3upvjb5kmevj6.webp" title="AdventJs"/>
+					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739901721/github/foy6btv6j6g9n11j71vi.avif" title="AdventJs"/>
 				</a>
 			</th>
 			<th>
 				<a href="https://github.com/cosmoart/codember" target="_blank" rel="noopener noreferrer">
-					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739380586/github/sxslobvf5gzhzuygcquc.webp" title="Codember"/>
+					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739901721/github/ighoynfty6m8sghkewra.avif" title="Codember"/>
 				</a>
 			</th>
 			<th>
 				<a href="https://github.com/cosmoart/HalloweenDev" target="_blank" rel="noopener noreferrer">
-					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739380784/github/i2qkbdiy4lxv6dj8s20h.webp" title="HalloweenDev"/>
+					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739901721/github/c6ml3ougru4odkw9vf2j.avif" title="HalloweenDev"/>
 				</a>
 			</th>
 			<th>
 				<a href="https://github.com/cosmoart/mars.codes" target="_blank" rel="noopener noreferrer">
-					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739380346/github/uaqmprg0cvtr7vpxyakp.webp" title="HalloweenDev"/>
+					<img src="https://res.cloudinary.com/cosmocloudinary/image/upload/v1739901721/github/o3hbh5uihgi4yfinm9v1.avif" title="HalloweenDev"/>
 				</a>
 			</th>
 		</tr>
